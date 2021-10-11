@@ -15,4 +15,6 @@ Steps: 1.build the graph with the inputes (edges) as a Adjacency Matrix.
 
 4.invert the graph. 5.run bfs from vertex t.
 
-6.remove all the edges that inaccessible from t. 7.invert the graph again.
+6.remove all the edges that inaccessible from t. 
+
+7.invert the graph again.
